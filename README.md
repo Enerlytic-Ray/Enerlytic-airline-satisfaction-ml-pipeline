@@ -96,3 +96,25 @@ It blends analytical depth with business-ready clarity.
 <p align="center"><em>Composite dashboard showcasing Accuracy, ROC-AUC, Log Loss, and top predictive features.</em></p>
 
 **Dashboard Layout Design**
+
+
+📊 Performance Dashboard Layout
+│
+
+├── KPI Tiles
+
+│ ├── Accuracy | ROC-AUC | Log Loss
+│
+├── Visual Analytics
+│ ├── ROC Curve (Matplotlib)
+│ ├── Confusion Matrix (Heatmap)
+│ ├── Feature Importance (Bar Chart)
+│
+
+├── Data Summary
+│ ├── Passenger Satisfaction Distribution
+│ ├── Top Predictors & Correlation Summary
+│
+
+└── Footer: Enerlytic Insights | Data-Driven Business Engineering
+
