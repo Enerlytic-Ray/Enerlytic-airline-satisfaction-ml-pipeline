@@ -61,8 +61,8 @@ Two models were developed and benchmarked:
 
 ### 🔹 ROC Curves
 <p align="center">
-  <img src="results/roc_logistic.png" alt="ROC Curve - Logistic Regression" width="45%">
-  <img src="results/roc_random_forest.png" alt="ROC Curve - Random Forest" width="45%">
+  <img src="roc_logistic.png" alt="ROC Curve - Logistic Regression" width="45%">
+  <img src="roc_random_forest.png" alt="ROC Curve - Random Forest" width="45%">
 </p>
 <p align="center"><em>Comparison of ROC curves showing the Random Forest’s superior classification performance.</em></p>
 
@@ -70,8 +70,8 @@ Two models were developed and benchmarked:
 
 ### 🔹 Confusion Matrices
 <p align="center">
-  <img src="results/confusion_logistic.png" alt="Confusion Matrix - Logistic Regression" width="45%">
-  <img src="results/confusion_random_forest.png" alt="Confusion Matrix - Random Forest" width="45%">
+  <img src="confusion_logistic.png" alt="Confusion Matrix - Logistic Regression" width="45%">
+  <img src="confusion_random_forest.png" alt="Confusion Matrix - Random Forest" width="45%">
 </p>
 <p align="center"><em>Distribution of predictions highlighting classification precision and recall trade-offs.</em></p>
 
@@ -79,7 +79,7 @@ Two models were developed and benchmarked:
 
 ### 🔹 Feature Importance
 <p align="center">
-  <img src="results/rf_feature_importances.png" alt="Feature Importance - Random Forest" width="70%">
+  <img src="rf_feature_importances.png" alt="Feature Importance - Random Forest" width="70%">
 </p>
 <p align="center"><em>Top 20 features influencing satisfaction predictions.</em></p>
 
