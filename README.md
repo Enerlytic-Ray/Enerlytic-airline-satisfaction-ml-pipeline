@@ -124,6 +124,17 @@ The **Enerlytic Performance Dashboard** provides a unified visual interface comb
 - Feature importance visualization linked with satisfaction distribution  
 - ROC curve and confusion matrix tiles for each model  
 - Service quality and operational insights from EDA summaries  
+</p>
+
+---
+
+## 🧮 Workflow Flowchart & Pseudocode
+
+The **Workflow Flowchart** for the **Enerlytic Airline Satisfaction ML Pipeline** that adheres to the PPDAC framework ensuring reproducibility, traceability, and interpretability from data ingestion to visualization..
+
+<p align="center">
+  <img src="Enerlytic Workflow image PPDAC.png" alt="Performance Dashboard Preview" width="85%">
+</p>
 
 **Design Methodology (PPDAC Applied):**
 - **Problem:** Improve satisfaction through insight discovery.  
