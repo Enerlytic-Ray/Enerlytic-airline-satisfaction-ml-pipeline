@@ -1,6 +1,6 @@
 # ✈️ Enerlytic Airline Satisfaction ML Pipeline
 
-> A comprehensive, data-driven solution for modeling airline passenger satisfaction using ETL, EDA, and predictive analytics with two supervised machine learning models — Logistic Regression and Random Forest.
+> A comprehensive, data driven solution for modeling airline passenger satisfaction using ETL, EDA, and predictive analytics with two supervised machine learning models which are Logistic Regression and Random Forest.
 
 ---
 
@@ -10,11 +10,11 @@ This project aims to analyze and predict airline passenger satisfaction using st
 It provides a reproducible **data-driven framework** that leverages analytical and engineering methodologies to uncover actionable insights and guide service improvement strategies.
 
 Following the **PPDAC framework**:
-1. **Problem** – Identify factors influencing airline satisfaction.  
-2. **Plan** – Design a machine learning workflow (ETL → EDA → Model → Evaluate).  
-3. **Data** – Use real-world airline passenger data.  
-4. **Analysis** – Train and compare two supervised models.  
-5. **Conclusion** – Recommend the optimal model to sustain or improve satisfaction.
+1. **Problem** : Identify factors influencing airline satisfaction.  
+2. **Plan** : Design a machine learning workflow (ETL → EDA → Model → Evaluate).  
+3. **Data** : Use real-world airline passenger data.  
+4. **Analysis** : Train and compare two supervised models.  
+5. **Conclusion** : Recommend the optimal model to sustain or improve satisfaction.
 
 ---
 
@@ -22,7 +22,7 @@ Following the **PPDAC framework**:
 
 ### 🧩 **1. Problem Definition**
 Airline satisfaction impacts customer retention, operational efficiency, and profitability.  
-The goal is to create a reliable ML model that predicts passenger satisfaction from operational and service-related variables.
+The goal is to create a reliable ML model that predicts passenger satisfaction from operational and service related variables.
 
 ### 🧠 **2. Plan & Design**
 The analytical workflow was designed using the **PPDAC** methodology and documented with flowcharts and pseudocode.  
@@ -120,7 +120,7 @@ The **Enerlytic Performance Dashboard** provides a unified visual interface comb
 </p>
 
 **Dashboard Features:**
-- Real-time KPIs for Accuracy, ROC-AUC, and Log Loss  
+- Real time KPIs for Accuracy, ROC-AUC, and Log Loss  
 - Feature importance visualization linked with satisfaction distribution  
 - ROC curve and confusion matrix tiles for each model  
 - Service quality and operational insights from EDA summaries  
