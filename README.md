@@ -134,60 +134,20 @@ The **Enerlytic Performance Dashboard** provides a unified visual interface comb
 
 ---
 
-## 🔁 Reproducibility Guide
+## 🧠 Future Extensions
 
-### **Requirements**
-Install dependencies:
-```bash
-pip install pandas numpy scikit-learn matplotlib joblib
+- Incorporate XGBoost and LightGBM for performance comparison
+- Integrate real-time Power BI updates via SQL or API
+- Extend dashboard for executive decision analytics 
 
-Execution
+----
 
-python airline_satisfaction_modeling.py
-
-
--------
-
-
-##  **Generated Outputs**
-
-
-/results/model_metrics.csv — Accuracy and loss summary
-
-/results/roc_*.png — ROC plots for both models
-
-/results/confusion_*.png — Confusion matrices
-
-/results/rf_feature_importances.png — Top features
-
-/results/*.joblib — Serialized model pipelines
-
-
-
------
-
-
-##  🧠 Future Extensions
-
-Incorporate XGBoost and LightGBM for performance comparison
-
-Integrate real-time Power BI updates via SQL or API
-
-Extend dashboard for executive decision analytics
-
-
--------
-
-
-##  ✍️ Author
+## ✍️ Author
 
 Adejoro Raymond Olaotan
+
 Electrical Engineer | Business Data Analyst | ML Enthusiast
+
 📧 raydey04@gmail.com
 
 🌐 GitHub: Enerlytic-Ray
-
-
-
-
-
