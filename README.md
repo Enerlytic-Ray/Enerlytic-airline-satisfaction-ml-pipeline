@@ -116,7 +116,7 @@ Visual summaries generated during analysis and modeling.
 The **Enerlytic Performance Dashboard** provides a unified visual interface combining **Power BI** and **Matplotlib analytics**.
 
 <p align="center">
-  <img src="assets/performance_dashboard_preview.png" alt="Performance Dashboard Preview" width="85%">
+  <img src="Airline Satisfaction Dashboard Overview.png" alt="Performance Dashboard Preview" width="85%">
 </p>
 
 **Dashboard Features:**
